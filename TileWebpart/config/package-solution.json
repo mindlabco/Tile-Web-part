@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tile-webpart-client-side-solution",
+    "id": "e6788f8c-2a64-4b7d-b962-f3b748286604",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/tile-webpart.sppkg"
+  }
+}
